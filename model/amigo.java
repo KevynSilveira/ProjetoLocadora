@@ -1,7 +1,7 @@
 package model;
 public class amigo {
     
-    public emprestimo agiota; 
+    public emprestimo empresario; 
     
     protected String numero;
     protected String email;
