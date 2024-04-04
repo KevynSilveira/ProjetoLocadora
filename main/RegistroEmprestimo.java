@@ -7,10 +7,10 @@ public class RegistroEmprestimo extends model.emprestimo{
     public void devolve(){
         
     }
-    public void estaEmprestado(){
+    public boolean estaEmprestado(){
         
     }
-    public void faixaetariabaixo(){
+    public boolean faixaetariabaixo(){
         
     }
 }
